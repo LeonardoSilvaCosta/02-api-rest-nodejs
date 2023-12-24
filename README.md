@@ -5,6 +5,9 @@ dependências em uso
 - ESLint: 
 - dotenv
 - zod: biblioteca para validação de dados
+- @fastify/cookie: facilita o trabalho com cookies com o framework fastify
+- vitest: a vite-native unit test framework
+- supertest
 
 # RF
 
